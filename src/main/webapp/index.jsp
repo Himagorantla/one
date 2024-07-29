@@ -11,7 +11,9 @@
 	<h1 style="color: blue; font-size: 40px;" align="center">WE DEPLOYED OUR APP ON 2 SERVERS</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">WELCOME TO FRONTLINES MEDIA</h1>
         <h1 style="color: yellow; font-size: 40px;" align="center">WE DEPLOYED OUR APP ON tomcat SERVERS</h1>
-	
+        <h1 style="color: blue; font-size: 100px;" align="center">hey siva </h1> 
+        <h1 style="color: blue; font-size: 100px;" align="center">how is your day </h1>
+	<h1 style="color: green; font-size: 40px;" align="center">i configured tomcat server for app deployment</h1
 	
 	
 	
